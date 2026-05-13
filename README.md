@@ -19,7 +19,7 @@
 > *"Engineering AI systems that don't just work in notebooks — they ship to production and create measurable impact."*
 
 - 🎓 **Master 1** – Management de l'IA en Santé @ **École Centrale de Lille** *(2025 – present)*
-- 💼 **AI Engineer** @ **[Elements Impact](https://elementsimpact.com)** — AI models for project impact analysis *(Mar 2026 – present)*
+- 💼 **AI Engineer** @ **[Elements Impact](https://elements3.com)** — AI models for project impact analysis *(Mar 2026 – present)*
 - 🚀 **Co-founder & Lead ML Engineer** @ **ParentEye** — Multimodal AI parental control system *(Jan–Oct 2025)*
 - 🔬 Focused on **production-grade** Deep Learning, NLP, Computer Vision & Agentic AI
 - 📍 **Lille, France** | Open to alternance Sept. 2026 — Île-de-France · Hauts-de-France · Lyon
